@@ -4,6 +4,18 @@
 # 💫 About Me:
 🚧 Currently working on **Fin Go Go Application – A full-featured taxi service app with real-time ride requests, driver location tracking, and integrated payment system.**<br>🌱 I’m currently learning Golang and Kubernetes for backend and DevOps<br>👨‍💻 All of my projects are available at [https://github.com/thanaratken](https://github.com/thanaratken)<br>📫 How to reach me **thanarat.ke@gmail.com**
 
+### 📦 Selected Projects:
+
+- **Daikyo ERP Website** – Web-based ERP system for internal business management  
+- **FaStation Web** – Online learning platform with video courses and user progress tracking  
+- **Precision Slitting Center ERP** – ERP system for managing product in/out flow, job order creation, and billing processes in an industrial setting.  
+- **Summit ERP** – Full-featured ERP system for business operations management  
+- **Legardy Application** – Mobile app for legal consultation and lawyer-client communication  
+- **Big C Smart Scan** – Internal scanning solution for Big C Supercenter operations  
+- **Mitsu Heavy One Click Application** – Technician scheduling and service app for Mitsubishi Heavy  
+- **Padudeer Application** – Internal parcel and logistics delivery system for corporate use  
+- **Fin Go Go** – Taxi service app with real-time ride matching and payment integration
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanarat.ketyoungyunwong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnr.ken) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanarat-ketyoungyunwong) 
