@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer in Thailand | Web, Mobile, Docker</h3>
 
 # 💫 About Me:
-🚧 Currently working on **Fin Go Go Application – A finance management app**<br>🌱 I’m currently learning **Golang and Kubernetes for backend and DevOps**<br>👨‍💻 All of my projects are available at [https://github.com/thanaratken](https://github.com/thanaratken)<br>📫 How to reach me **thanarat.ke@gmail.com**
+🚧 Currently working on **Fin Go Go Application – A full-featured taxi service app with real-time ride requests, driver location tracking, and integrated payment system.**<br>🌱 I’m currently learning Golang and Kubernetes for backend and DevOps<br>👨‍💻 All of my projects are available at [https://github.com/thanaratken](https://github.com/thanaratken)<br>📫 How to reach me **thanarat.ke@gmail.com**
 
 
 ## 🌐 Socials:
